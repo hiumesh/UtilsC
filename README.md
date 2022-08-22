@@ -1,2 +1,2 @@
-# UtilsC-C-
+# UtilsC
 Utility functions for C/C++
